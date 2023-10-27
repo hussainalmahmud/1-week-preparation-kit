@@ -41,7 +41,8 @@ Here's the structure of the repository:
 
 2. Navigate to the specific day's directory (e.g., `Day_1`) and open the corresponding Jupyter Notebook (`.ipynb`) and you will find a solution for each question with the time and space complexity for each solution.
 
-- or you can go to the notebook solution and click on the Google Colab button to copy the notebook to your colab and start editing the code.
+- or you can go to the notebook solution and click on the Google Colab button <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> to copy the notebook to your colab and start editing the code.
+
 ## 🤝 Contributing
 
 If you have additional optimized solutions or improvements you'd like to contribute, please feel free to submit a pull request.
