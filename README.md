@@ -4,7 +4,7 @@
 
 ## 📖 Introduction
 
-📘 This repository has been created as a dedicated toolkit and reference for preparing and studying for upcoming data structure and algorithm interviews. It's designed by HackerRank to help master the essentials and acing interviews within just a week.
+📘 This repository has been created as a dedicated toolkit and reference for preparing and studying for upcoming data structure and algorithm interviews. It's designed by HackerRank to help master the essentials and acing interviews within just a week. The actual kit can be found [Here](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-six/challenges).
 
 Each day of the week is dedicated to specific challenges followed by a Mock Test to ensure comprehensive coverage of essential concepts.
 
@@ -13,6 +13,7 @@ Each day of the week is dedicated to specific challenges followed by a Mock Test
 Here's the structure of the repository:
 
 ```
+.
 ├── Day_1
 │   ├── Min-MaxSum.ipynb
 │   ├── PlusMinus.ipynb
@@ -25,7 +26,22 @@ Here's the structure of the repository:
 │   ├── CaesarCiphar.ipynb
 │   ├── TowerBreakers.ipynb
 │   └── ZigZagSequence.ipynb
-├── Hackerrank-1-week-prep.ipynb
+├── Day_4
+│   ├── GridChallenge.ipynb
+│   ├── NewYearChaos.ipynb
+│   └── RecursiveDigitSum.ipynb
+├── Day_5
+│   ├── BalancedBrackets.ipynb
+│   ├── MergeTwoSortedLinkedLists.ipynb
+│   └── QueueUsingTwoStacks.ipynb
+├── Day_6
+│   ├── JesseAndCookies.ipynb
+│   ├── LegoBlocks.ipynb
+│   └── SimpleTextEditor.ipynb
+├── Day_7
+│   ├── NoPrefixSet.ipynb
+│   ├── TreeHuffmanDecoding.ipynb
+│   └── TreePreorderTraversal.ipynb
 ├── LICENSE
 └── README.md
 ```
