@@ -162,3 +162,4 @@ cython_debug/
 
 # ignore MockTest.ipynb files
 **/MockTest.ipynb
+Hackerrank-1-week-prep.ipynb
